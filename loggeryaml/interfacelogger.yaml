@@ -1,0 +1,36 @@
+version: 1
+disable_existing_loggers: False
+formatters:
+ simple:
+   format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+handlers:
+
+# ROLE TABLE HANDLERS
+
+ postapp:
+   class: logging.FileHandler
+   level: DEBUG
+   formatter: simple
+   filename:  loggerfiles/keela.log
+
+
+
+ consolerole:
+   class: logging.StreamHandler
+   level: DEBUG
+   formatter: simple
+
+
+
+loggers:
+
+ postapps:
+   level: DEBUG
+   handlers: [postapp]
+   propagate: True
+
+
+ consoleroles:
+   level: DEBUG
+   handlers: [consolerole]
+   propagate: True

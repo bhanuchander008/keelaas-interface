@@ -1,0 +1,954 @@
+2019-11-01 15:06:39,512 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 15:06:41,088 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 15:06:42,535 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 15:06:43,024 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 15:06:43,024 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 15:06:43,616 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 15:06:45,060 - postapps - INFO - {'success': False, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-01 15:36:46,038 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 15:36:47,380 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 15:36:48,456 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 15:36:48,952 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 15:36:48,953 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 15:36:49,574 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 15:36:51,083 - postapps - INFO - {'success': False, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-01 16:06:51,114 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 16:06:52,272 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 16:06:53,409 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 16:06:53,903 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 16:06:53,903 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 16:06:54,473 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 16:06:55,848 - postapps - INFO - {'success': False, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-01 16:36:55,908 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 16:36:57,557 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 16:36:59,810 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 16:37:00,306 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 16:37:00,307 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 16:37:01,138 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 16:37:02,580 - postapps - INFO - {'success': False, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-01 17:07:31,523 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 17:07:32,646 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 17:07:33,680 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 17:07:34,166 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 17:07:34,166 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 17:07:35,026 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 17:07:36,566 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-01 17:37:36,569 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-01 17:37:38,195 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-01 17:37:39,259 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-01 17:37:39,747 - postapps - INFO - {'message': '1 filename with 0568554477_01112019_STD.txt.gpgare download to local folder'}
+2019-11-01 17:37:39,747 - postapps - INFO - {'message': '1 file with filename 0568554477_01112019_STD.txt.gpg are found to send keela_url'}
+2019-11-01 17:37:40,297 - postapps - INFO - {'success': True, 'message': '0568554477_01112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-01 17:37:41,705 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 16:42:08,052 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 16:42:09,455 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 16:42:10,476 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 16:42:10,946 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 16:42:10,947 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 16:44:22,917 - postapps - INFO - {'success': False, 'message': 'Scheduler is not running'}
+2019-11-04 16:45:22,986 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 16:45:24,297 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 16:45:25,325 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 16:45:25,796 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 16:45:25,797 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 16:59:49,852 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 16:59:51,051 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 16:59:52,407 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 16:59:53,232 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 16:59:53,232 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:05:45,458 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:05:46,572 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:05:47,600 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:05:48,077 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:05:48,077 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:26:29,720 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:26:30,848 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:26:31,869 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:26:32,346 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:26:32,346 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:27:40,282 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:27:41,408 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:27:42,444 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:27:42,926 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:27:42,927 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:27:44,327 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 17:27:45,572 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 17:28:45,643 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:28:46,759 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:28:48,189 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:28:48,669 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:28:48,669 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:28:49,024 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 17:28:50,092 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 17:29:50,166 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:29:51,280 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:29:52,337 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:29:52,817 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:29:52,817 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:29:53,198 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 17:29:54,102 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 17:30:54,172 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 17:30:55,301 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 17:30:56,352 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 17:30:56,840 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 17:30:56,840 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 17:30:57,176 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 17:30:58,292 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 18:18:52,813 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 18:18:54,759 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 18:18:55,812 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 18:18:56,299 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 18:18:56,300 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 18:18:57,497 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 18:18:58,902 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 18:27:55,686 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 18:27:56,894 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 18:27:58,173 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 18:27:58,672 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 18:27:58,673 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 18:28:01,597 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 18:28:02,874 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 18:29:02,946 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 18:29:03,981 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 18:29:05,037 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 18:29:05,521 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 18:29:05,521 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 18:29:05,916 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 18:29:06,908 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 18:30:06,979 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 18:30:08,356 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 18:30:09,369 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 18:30:09,848 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 18:30:09,848 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 18:30:11,414 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 18:30:12,597 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-04 19:00:27,555 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-04 19:00:28,620 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-04 19:00:29,648 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-04 19:00:30,123 - postapps - INFO - {'message': '1 filename with 0568554477_04112019_STD.txt.gpgare download to local folder'}
+2019-11-04 19:00:30,123 - postapps - INFO - {'message': '1 file with filename 0568554477_04112019_STD.txt.gpg are found to send keela_url'}
+2019-11-04 19:00:30,604 - postapps - INFO - {'success': True, 'message': '0568554477_04112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-04 19:00:31,884 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 09:25:50,982 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 09:29:43,825 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 09:29:47,440 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 09:29:49,564 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 09:29:50,739 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 09:29:50,739 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 09:29:51,742 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 09:29:53,260 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 09:32:53,474 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 09:32:54,548 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 09:32:55,804 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 09:32:56,294 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 09:32:56,294 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 09:32:56,489 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 09:32:57,521 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:30:07,281 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:30:09,276 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:30:10,307 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:30:10,778 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:30:10,778 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:30:11,444 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:30:12,829 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:33:13,024 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:33:14,038 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:33:15,063 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:33:15,535 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:33:15,536 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:33:15,799 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:33:16,919 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:36:17,112 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:36:18,141 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:36:19,173 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:36:19,654 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:36:19,654 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:36:20,026 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:36:21,292 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:39:21,490 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:39:22,547 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:39:23,599 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:39:24,089 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:39:24,089 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:39:24,317 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:39:25,454 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:42:25,652 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:42:26,743 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:42:27,771 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:42:28,246 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:42:28,247 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:42:28,829 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:42:29,884 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:45:30,078 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:45:31,862 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:45:32,991 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:45:33,468 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:45:33,469 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:45:33,642 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:45:35,047 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:53:12,769 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:53:13,810 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:53:14,847 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:53:15,313 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:53:15,313 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:53:15,819 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:53:17,013 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 10:56:17,208 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 10:56:19,331 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 10:56:20,393 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 10:56:20,875 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 10:56:20,875 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 10:56:21,086 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 10:56:23,191 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:07:17,505 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:07:18,615 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:07:19,665 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:07:20,254 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:07:20,254 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:07:20,892 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:07:22,595 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:10:22,782 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:10:23,954 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:10:25,261 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:10:25,737 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:10:25,737 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:10:25,989 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:10:27,086 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:13:27,290 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:13:28,855 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:13:29,932 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:13:30,423 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:13:30,424 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:13:30,925 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:13:32,682 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:16:32,901 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:16:33,947 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:16:35,399 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:16:35,903 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:16:35,903 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:16:36,144 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:16:37,255 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:19:37,467 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:19:38,586 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:19:39,653 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:19:40,135 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:19:40,136 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:19:40,495 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:19:41,950 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:22:42,169 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:22:43,317 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:22:44,384 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:22:44,888 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:22:44,889 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:22:45,138 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:22:46,189 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:25:46,394 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:25:47,511 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:25:48,779 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:25:49,281 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:25:49,281 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:25:50,153 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:25:51,755 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:28:51,970 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:28:53,514 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:28:55,065 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:28:55,577 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:28:55,578 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:28:55,800 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:28:56,903 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:31:57,115 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:31:59,174 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:32:00,208 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:32:00,717 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:32:00,717 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:32:01,107 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:32:02,585 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:35:02,804 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:35:03,873 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:35:04,915 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:35:05,403 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:35:05,404 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:35:05,592 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:35:06,616 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:38:06,831 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:38:08,382 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:38:09,427 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:38:09,940 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:38:09,940 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:38:10,725 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:38:12,016 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:41:12,235 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:41:13,287 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:41:14,330 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:41:14,812 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:41:14,812 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:41:15,068 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:41:16,145 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:44:16,359 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:44:17,675 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:44:18,997 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:44:19,589 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:44:19,589 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:44:20,432 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:44:23,174 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:47:23,388 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:47:24,481 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:47:25,754 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:47:26,234 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:47:26,234 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:47:26,421 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:47:27,442 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:50:27,661 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:50:28,822 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:50:29,877 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:50:30,367 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:50:30,368 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:50:31,124 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:50:32,536 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:53:32,756 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:53:33,915 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:53:34,962 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:53:35,438 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:53:35,439 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:53:35,673 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:53:36,767 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:56:36,980 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:56:38,086 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:56:39,129 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:56:39,612 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:56:39,612 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:56:40,275 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:56:41,731 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 11:59:41,943 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 11:59:43,051 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 11:59:44,077 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 11:59:44,558 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 11:59:44,559 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 11:59:44,780 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 11:59:45,774 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 12:02:45,991 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 12:02:47,096 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 12:02:48,167 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 12:02:48,650 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 12:02:48,650 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 12:02:49,430 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 12:02:50,908 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 12:05:51,108 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 12:05:52,426 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 12:05:53,451 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 12:05:53,930 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 12:05:53,930 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 12:05:54,242 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 12:05:55,180 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 12:08:55,376 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 12:08:56,736 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 12:08:57,821 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 12:08:58,575 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 12:08:58,575 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 12:08:59,218 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 12:09:00,776 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 12:12:00,976 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 12:12:02,027 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 12:12:03,057 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 12:12:03,542 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 12:12:03,542 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 12:12:03,735 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 12:12:04,838 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-05 12:15:04,791 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-05 12:15:05,847 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-05 12:15:06,900 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-05 12:15:07,603 - postapps - INFO - {'message': '1 filename with 0568554477_05112019_STD.txt.gpgare download to local folder'}
+2019-11-05 12:15:07,604 - postapps - INFO - {'message': '1 file with filename 0568554477_05112019_STD.txt.gpg are found to send keela_url'}
+2019-11-05 12:15:08,092 - postapps - INFO - {'success': True, 'message': '0568554477_05112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-05 12:15:08,093 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-08 09:56:47,375 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-08 09:56:50,583 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-08 09:56:52,963 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-08 09:56:54,586 - postapps - INFO - {'message': '1 filename with 0568554477_08112019_STD.txt.gpgare download to local folder'}
+2019-11-08 09:56:54,586 - postapps - INFO - {'message': '1 file with filename 0568554477_08112019_STD.txt.gpg are found to send keela_url'}
+2019-11-08 09:56:55,452 - postapps - INFO - {'success': True, 'message': '0568554477_08112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-08 09:56:55,473 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:06:29,728 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:06:32,630 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:06:34,969 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:06:36,313 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:06:36,313 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:06:36,399 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:06:36,416 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:07:36,478 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:07:38,710 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:07:41,534 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:07:42,837 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:07:42,837 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:07:42,860 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:07:42,860 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:08:42,924 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:08:45,125 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:08:47,361 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:08:48,626 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:08:48,626 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:08:48,644 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:08:48,645 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:09:48,707 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:09:51,000 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:09:53,894 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:09:55,232 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:09:55,232 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:09:56,588 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e80cfbe0>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:10:56,653 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:10:58,985 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:11:01,379 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:11:02,749 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:11:02,749 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:11:02,790 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:11:02,791 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:12:02,853 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:12:05,080 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:12:07,407 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:12:08,753 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:12:08,753 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:12:09,727 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e806e208>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:13:09,786 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:13:12,024 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:13:14,432 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:13:15,778 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:13:15,778 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:13:16,809 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e80d7a58>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:14:16,869 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:14:19,104 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:14:21,376 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:14:22,673 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:14:22,674 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:14:23,631 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e8075c18>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:15:23,694 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:15:25,886 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:15:28,160 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:15:29,438 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:15:29,438 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:15:30,666 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e80cfc88>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:16:30,729 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:16:32,942 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:16:35,421 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:16:36,701 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:16:36,701 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:16:37,804 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e8089668>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:17:37,863 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:17:40,212 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:17:42,615 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:17:44,234 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:17:44,234 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:17:45,211 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e806ea90>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:18:45,270 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:18:47,563 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:18:49,900 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:18:51,239 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:18:51,239 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:18:52,268 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e801d048>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:19:52,329 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:19:54,673 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:19:57,083 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:19:58,462 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:19:58,462 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:19:59,593 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e80804a8>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:20:59,657 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:21:01,864 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:21:04,198 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:21:05,499 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:21:05,499 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:21:07,026 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e802dac8>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:22:07,088 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:22:09,406 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:22:11,723 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:22:13,040 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:22:13,040 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:22:14,133 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e802d630>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:23:14,196 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:23:16,483 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:23:18,908 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:23:20,295 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:23:20,296 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:23:21,723 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e803c518>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:24:21,784 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:24:24,102 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:24:27,088 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:24:28,448 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:24:28,448 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:24:30,423 - postapps - INFO - {'success': False, 'message': "HTTPConnectionPool(host='192.168.1.118', port=5000): Max retries exceeded with url: /api/processpayments (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc6e8089908>: Failed to establish a new connection: [Errno 111] Connection refused',))"}
+2019-11-11 14:25:56,033 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:25:58,255 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:26:00,625 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:26:01,971 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:26:01,972 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:26:02,991 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:26:02,992 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:27:03,054 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:27:05,334 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:27:07,767 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:27:09,158 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:27:09,159 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:27:09,348 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:27:09,349 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:28:09,411 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:28:11,711 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:28:14,160 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:28:15,555 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:28:15,556 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:28:15,763 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:28:15,763 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:29:15,824 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:29:19,257 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:29:22,720 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:29:24,857 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:29:24,857 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:29:25,057 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:29:25,058 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:31:22,736 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:31:25,016 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:31:27,386 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:31:28,707 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:31:28,707 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:31:29,261 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:31:29,262 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:32:29,326 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:32:31,668 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:32:34,076 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:32:35,655 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:32:35,655 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:32:35,865 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:32:35,865 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:34:00,419 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:34:03,266 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:34:05,652 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:34:07,013 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:34:07,014 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:34:07,250 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:34:07,250 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:35:07,318 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:35:09,706 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:35:12,133 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:35:13,512 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:35:13,513 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:35:13,737 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:35:13,738 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:36:13,805 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:36:16,082 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:36:18,462 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:36:19,883 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:36:19,884 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:36:20,067 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:36:20,067 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:37:20,130 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:37:22,553 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:37:24,955 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:37:26,345 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:37:26,345 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:37:26,924 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:37:26,925 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:38:26,992 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:38:29,272 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:38:31,601 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:38:32,928 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:38:32,928 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:38:33,109 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:38:33,110 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:39:33,173 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:39:36,065 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:39:38,436 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:39:39,784 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:39:39,785 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:39:39,964 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:39:39,965 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:40:40,025 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:40:42,338 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:40:44,719 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:40:46,088 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:40:46,088 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:40:46,280 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:40:46,281 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:41:46,343 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:41:48,686 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:41:52,305 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:41:53,794 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:41:53,794 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:41:53,998 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:41:53,999 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:43:27,918 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:43:30,192 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:43:33,104 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:43:34,434 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:43:34,434 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:43:35,248 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:43:35,249 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:44:35,313 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:44:37,610 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:44:39,896 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:44:41,182 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:44:41,182 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:44:41,385 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:44:41,385 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:45:41,447 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:45:43,702 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:45:47,715 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:45:49,331 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:45:49,331 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:45:49,549 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:45:49,550 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:46:49,615 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:46:51,966 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:46:54,379 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:46:55,759 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:46:55,759 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:46:55,993 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:46:55,994 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:47:56,060 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:47:58,423 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:49:01,931 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:49:04,286 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:49:07,291 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:49:08,711 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:49:08,712 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:49:09,235 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:49:09,235 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:50:09,302 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:50:11,588 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:50:13,916 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:50:15,214 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:50:15,214 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:50:15,538 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:50:15,538 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:51:15,608 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:51:17,932 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:51:20,409 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:51:21,827 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:51:21,828 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:51:22,051 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:51:22,051 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:52:22,122 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:52:24,521 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:52:27,171 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:52:28,546 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:52:28,547 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:52:28,799 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:52:28,800 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:53:28,868 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:53:31,123 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:53:34,021 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:53:35,342 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:53:35,343 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:53:35,559 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:53:35,559 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:54:35,623 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:54:37,952 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:54:40,360 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:54:41,726 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:54:41,726 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:54:42,137 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:54:42,138 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:55:42,198 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:55:44,457 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:55:46,757 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:55:48,050 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:55:48,050 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:55:48,293 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:55:48,293 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:56:48,354 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:56:50,702 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:56:53,125 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:56:54,504 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:56:54,504 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:56:54,825 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:56:54,825 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:57:54,889 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:57:57,243 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:57:59,643 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:58:01,031 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:58:01,031 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:58:01,510 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:58:01,510 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 14:59:01,573 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 14:59:05,829 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 14:59:10,516 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 14:59:12,581 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 14:59:12,582 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 14:59:12,930 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 14:59:12,931 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:00:12,994 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:00:15,199 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:00:17,533 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:00:18,862 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:00:18,862 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:00:19,694 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:00:19,695 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:01:19,758 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:01:22,014 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:01:24,315 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:01:25,623 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:01:25,624 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:01:26,269 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:01:26,270 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:02:26,330 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:02:28,574 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:02:30,874 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:02:32,182 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:02:32,183 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:02:32,703 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:02:32,703 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:03:32,765 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:03:34,932 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:03:37,205 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:03:38,506 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:03:38,507 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:03:39,267 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:03:39,268 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:04:39,329 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:04:41,440 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:04:44,459 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:04:46,038 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:04:46,038 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:04:47,060 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:04:47,061 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:05:47,125 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:05:49,387 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:05:51,670 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:05:53,023 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:05:53,023 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:05:53,917 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:05:53,918 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:06:53,982 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:06:56,616 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:06:59,013 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:07:00,418 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:07:00,418 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:07:00,987 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:07:00,988 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:08:01,049 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:08:03,559 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:08:05,916 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:08:07,242 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:08:07,243 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:08:07,849 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:08:07,849 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:09:07,912 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:09:10,448 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:09:12,788 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:09:14,138 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:09:14,138 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:09:14,656 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:09:14,657 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:10:14,717 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:10:16,961 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:10:19,489 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:10:20,855 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:10:20,855 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:10:21,588 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:10:21,589 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:11:21,655 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:11:23,877 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:11:26,144 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:11:27,438 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:11:27,439 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:11:28,489 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:11:28,490 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:12:28,552 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:12:31,043 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:12:33,330 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:12:34,660 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:12:34,660 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:12:35,910 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:12:35,910 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:13:35,978 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:13:38,270 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:13:40,623 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:13:41,951 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:13:41,952 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:13:42,661 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:13:42,662 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:14:42,724 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:14:44,863 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:14:47,097 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:14:48,353 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:14:48,353 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:14:49,035 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:14:49,035 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:15:49,098 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:15:51,402 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:15:53,816 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:15:55,198 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:15:55,199 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:15:55,735 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:15:55,735 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:16:55,798 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:16:58,041 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:17:00,519 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:17:01,908 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:17:01,909 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:17:02,689 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:17:02,690 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:18:02,813 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:18:05,121 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:18:07,512 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:18:08,895 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:18:08,895 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:18:09,992 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:18:09,992 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:19:10,054 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:19:12,304 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:19:14,660 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:19:15,994 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:19:15,994 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:19:16,799 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:19:16,800 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-11 15:20:16,862 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-11 15:20:19,153 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-11 15:20:21,503 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-11 15:20:22,857 - postapps - INFO - {'message': '1 filename with 0568554477_11112019_STD.txt.gpgare download to local folder'}
+2019-11-11 15:20:22,857 - postapps - INFO - {'message': '1 file with filename 0568554477_11112019_STD.txt.gpg are found to send keela_url'}
+2019-11-11 15:20:23,599 - postapps - INFO - {'success': True, 'message': '0568554477_11112019_STD.txt.gpg send to keela_url sucessfully'}
+2019-11-11 15:20:23,600 - postapps - INFO - {'success': True, 'message': 'files are  moved sucessfully from localfolder_path to temp_folder'}
+2019-11-12 13:05:24,073 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:05:27,109 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-12 13:05:29,409 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-12 13:05:30,731 - postapps - INFO - {'message': '1 filename with 0568554477_12112019_STD.txt.gpgare download to local folder'}
+2019-11-12 13:05:30,732 - postapps - INFO - {'message': '1 file with filename 0568554477_12112019_STD.txt.gpg are found to send keela_url'}
+2019-11-12 13:05:32,118 - postapps - INFO - {'success': False, 'message': "name 'resp' is not defined"}
+2019-11-12 13:06:23,667 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:06:25,888 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-12 13:07:18,521 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:07:33,970 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:07:36,150 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-12 13:09:08,242 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:11:16,759 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-12 13:11:18,228 - postapps - INFO - {'success': False, 'message': "name 'start' is not defined"}
+2019-11-12 14:04:29,934 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:26:14,751 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:26:16,113 - postapps - INFO - {'success': False, 'message': "'method_descriptor' object has no attribute 'today'"}
+2019-11-13 11:26:31,929 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:26:32,863 - postapps - INFO - {'success': False, 'message': "'method_descriptor' object has no attribute 'today'"}
+2019-11-13 11:26:58,143 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:26:59,062 - postapps - INFO - {'success': False, 'message': "'method_descriptor' object has no attribute 'today'"}
+2019-11-13 11:27:24,510 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:28:06,500 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:28:12,454 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 11:28:42,681 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:30:41,526 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:34:36,179 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:35:00,972 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:35:19,862 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:35:22,611 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 11:35:25,041 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 11:35:26,720 - postapps - INFO - {'message': '1 filename with 0568554477_12112019_STD.txt.gpgare download to local folder'}
+2019-11-13 11:35:26,721 - postapps - INFO - {'message': '1 file with filename 0568554477_12112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 11:35:58,049 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:36:00,308 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 11:36:02,843 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 11:36:26,207 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:36:28,512 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 11:36:30,927 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 11:36:32,312 - postapps - INFO - {'message': '1 filename with 0568554477_12112019_STD.txt.gpgare download to local folder'}
+2019-11-13 11:36:32,312 - postapps - INFO - {'message': '1 file with filename 0568554477_12112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 11:36:40,754 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:41:16,565 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:41:33,264 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 11:41:35,553 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 13:57:11,030 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 13:57:14,019 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 13:57:16,551 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 13:57:18,222 - postapps - INFO - {'message': '1 filename with 0568554477_12112019_STD.txt.gpgare download to local folder'}
+2019-11-13 13:57:18,222 - postapps - INFO - {'message': '1 file with filename 0568554477_12112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 14:17:56,472 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:17:59,526 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:18:01,772 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:03,059 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:04,948 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:06,280 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:08,105 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:09,856 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:11,288 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:12,655 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:14,053 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:15,373 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:16,733 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:18,178 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:20,286 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:21,602 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:22,867 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:24,189 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:25,607 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:27,157 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:28,809 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:30,122 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:31,497 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:33,158 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:35,008 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:36,679 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:18:38,347 - postapps - INFO - {'message': '12 filename with 0568554477_13112019_STD.txt.gpgare download to local folder'}
+2019-11-13 14:18:38,348 - postapps - INFO - {'message': '12 file with filename 0568554477_13112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 14:34:49,791 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:34:52,227 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:34:55,325 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:34:57,001 - postapps - INFO - {'message': '1 filename with 0568554477_13112019_STD.txt.gpgare download to local folder'}
+2019-11-13 14:34:57,001 - postapps - INFO - {'message': '1 file with filename 0568554477_13112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 14:35:46,597 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:35:48,832 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:35:51,752 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:35:53,151 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:35:54,467 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:35:55,851 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:35:57,284 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:35:58,712 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:00,104 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:01,977 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:03,429 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:05,033 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:06,604 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:08,026 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:41,535 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:36:44,141 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:36:46,699 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:48,167 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:49,539 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:50,900 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:52,443 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:53,809 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:36:55,453 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:37:27,616 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:37:29,803 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:37:32,420 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:37:40,000 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:37:42,422 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:37:44,763 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:40:11,538 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 14:40:14,083 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 14:40:16,917 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:40:18,450 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 14:40:19,919 - postapps - INFO - {'message': '2 filename with 0568554477_13112019_STD.txt.gpgare download to local folder'}
+2019-11-13 14:40:19,919 - postapps - INFO - {'message': '2 file with filename 0568554477_13112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 15:55:39,393 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 15:55:42,224 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 15:55:44,792 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 16:05:31,592 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:05:35,123 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:07:25,093 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:07:27,508 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:22:44,585 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:22:47,513 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:23:06,454 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:23:16,633 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:23:38,080 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 16:23:41,514 - postapps - INFO - {'message': '1 filename with 0568554477_13112019_STD.txt.gpgare download to local folder'}
+2019-11-13 16:23:41,515 - postapps - INFO - {'message': '1 file with filename 0568554477_13112019_STD.txt.gpg are found to send keela_url'}
+2019-11-13 16:26:55,078 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:26:57,726 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:27:00,157 - postapps - INFO - {'message': 'files are found to send keela_url'}
+2019-11-13 16:41:50,390 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:41:52,829 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:43:35,951 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:43:42,433 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:44:02,793 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:44:05,432 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:44:24,809 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:44:28,468 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:44:49,959 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:44:52,228 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
+2019-11-13 16:45:02,625 - postapps - INFO - {'message': 'scheduler task started '}
+2019-11-13 16:45:04,905 - postapps - INFO - {'message': 'Connection succesfully established to the sftp server'}
